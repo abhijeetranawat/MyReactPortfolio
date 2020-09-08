@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Abhijeet Singh Ranawat",
+    "occupation": "Fresher || Computer Science",
+    "description": "Coder and logical thinker #RANK488_TCS-CODEVITA",
+    "image": "logo.jpg",
+    "bio": "My name is Abhijeet Singh, I'm a Fresher-Web Developer. Currently I'm pursuing B.Tech Final Year in Computer Science ",
+    "contactmessage": "Get in touch with me to receive further details, for any help or anything else.",
+    "email": "abhijeetranawat13@gmail.com",
+    "phone": "+91 7000652299",
+    "address": {
+      "street": "Flat 501,Rajkamal Tower",
+      "city": "Indore",
+      "state": "M.P.",
+      "zip": "452001"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/abhijeet.ranawat/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abhijeet-singh-ranawat-a95642132/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_conquistador15/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/abhijeetranawat",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Medi-Caps University",
+        "degree": "Bachelor of Technology",
+        "graduated": "2017-2021",
+        "description": "Computer Science Engineer"
+      }
+    ],
+    "work": [
+      {
+        "company": "Technocolabs",
+        "title": "Web Developer Intern",
+        "years": "July 2020 - Present",
+        "description": "Building an Online exam portal."
+      },
+      {
+        "company": "Mantic Technologies",
+        "title": "Python and Data science Intern",
+        "years": "June 2019 - August 2019",
+        "description": "Learned and developed some projects on Python and database"
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "MySql",
+        "level": "75%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "C++",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "R Programming",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "That Abhijeet Singh must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "John Doe"
+      }
+    ]
+  }
+}
